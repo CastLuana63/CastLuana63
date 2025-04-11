@@ -1,4 +1,4 @@
-# Prazer, Jvjfe! 👋
+# Olá, sou a Luana! 👋
 <img src="https://img.shields.io/static/v1?label=Overview&message=jvjfe&color=8eff94&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 <table>
   <tr>
