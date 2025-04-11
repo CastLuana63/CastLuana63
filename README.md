@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>   
-     <img align='right' src="https://github-readme-stats.vercel.app/api?username=jvjfe&show_icons=true&title_color=0e0e0e&text_color=0e0e0e&icon_color=007706&bg_color=8eff94&cache_seconds=2300" alt="ilustração do status do github">
+     <img align='right' src="https://github-readme-stats.vercel.app/api?username=CastLuana63&show_icons=true&title_color=0e0e0e&text_color=0e0e0e&icon_color=007706&bg_color=8eff94&cache_seconds=2300" alt="ilustração do status do github">
     </td> 
   </tr>
 </table>
