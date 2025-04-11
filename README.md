@@ -1,11 +1,11 @@
 <h1 align="center">Olá, sou a Luana! 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=GitHub&message=CastLuana63&color=C68EFD&style=for-the-badge&logo=github" alt="GitHub de Luana" />
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=CastLuana63&color=441752&style=for-the-badge&logo=github" alt="GitHub de Luana" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CastLuana63&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=C68EFD&border_radius=15&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CastLuana63&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=441752&border_radius=15&cache_seconds=1800" alt="GitHub Stats" />
 </div>
 
 ---
@@ -41,5 +41,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C68EFD&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=441752&height=100&section=footer" />
 </div>
