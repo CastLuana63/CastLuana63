@@ -22,17 +22,6 @@
 
 ---
 
-## 📊 Ferramentas de Gráficos que Amo
-
-- [Chart.js](https://www.chartjs.org/)
-- [Recharts](https://recharts.org/)
-- [ApexCharts](https://apexcharts.com/)
-- [D3.js](https://d3js.org/)
-
-💡 *Transformar dados em visualizações estilosas com roxo é comigo mesma!*
-
----
-
 ## 🚀 Me encontre por aí
 
 | 🌐 Plataforma | 🔗 Link |
