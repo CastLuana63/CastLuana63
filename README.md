@@ -22,14 +22,25 @@
 
 ---
 
+## 📊 Ferramentas de Gráficos que Amo
+
+- [Chart.js](https://www.chartjs.org/)
+- [Recharts](https://recharts.org/)
+- [ApexCharts](https://apexcharts.com/)
+- [D3.js](https://d3js.org/)
+
+💡 *Transformar dados em visualizações estilosas com roxo é comigo mesma!*
+
+---
+
 ## 🚀 Me encontre por aí
 
-| Plataforma | Link |
-|-----------|------|
-| 🌐 GitHub | [github.com/CastLuana63](https://github.com/CastLuana63) |
-| 📸 Instagram Dev | [https://www.instagram.com/castluana_/] |
-| 💼 LinkedIn | [www.linkedin.com/in/luana-manuelle-castanheda] |
-| 💌 E-mail | [luanamanuelle63@gmail.com] |
+| 🌐 Plataforma | 🔗 Link |
+|--------------|--------|
+| 💜 GitHub | [github.com/CastLuana63](https://github.com/CastLuana63) |
+| 📸 Instagram Dev | [instagram.com/castluana_](https://www.instagram.com/castluana_/) |
+| 💼 LinkedIn | [linkedin.com/in/luana-manuelle-castanheda](https://www.linkedin.com/in/luana-manuelle-castanheda) |
+| 💌 E-mail | [luanamanuelle63@gmail.com](mailto:luanamanuelle63@gmail.com) |
 
 ---
 
