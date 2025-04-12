@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou a Luana! 👋</h1>
+<h1 align="center">Olá, sou a Luana! 🌑</h1>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=GitHub&message=CastLuana63&color=441752&style=for-the-badge&logo=github" alt="GitHub de Luana" />
