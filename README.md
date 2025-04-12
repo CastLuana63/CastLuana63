@@ -34,7 +34,7 @@
 ---
 
 <div align="center">
-  <h3><b>📈 Quantos já visitaram meu GitHub? 🤔</b></h3>
+  <h3><b>Quantos já visitaram meu GitHub? 🤔</b></h3>
   <img src="https://profile-counter.glitch.me/CastLuana63/count.svg" alt="Contador de visitas" />
 </div>
 
