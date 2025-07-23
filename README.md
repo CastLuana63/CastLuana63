@@ -34,12 +34,5 @@
 ---
 
 <div align="center">
-  <h3><b>Quantos já visitaram meu GitHub? 🤔</b></h3>
-  <img src="https://profile-counter.glitch.me/CastLuana63/count.svg" alt="Contador de visitas" />
-</div>
-
----
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=441752&height=100&section=footer" />
 </div>
