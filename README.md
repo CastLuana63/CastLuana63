@@ -35,8 +35,6 @@
 
 | 🌐 Plataforma | 🔗 Link |
 |--------------|--------|
-| 💜 GitHub | [github.com/CastLuana63](https://github.com/CastLuana63) |
-| 📸 Instagram Dev | [instagram.com/castluana_](https://www.instagram.com/castluana_/) |
 | 💼 LinkedIn | [linkedin.com/in/luana-manuelle-castanheda](https://www.linkedin.com/in/luana-manuelle-castanheda) |
 | 💌 E-mail | [luanamanuelle63@gmail.com](mailto:luanamanuelle63@gmail.com) |
 
